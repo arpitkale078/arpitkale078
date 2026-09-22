@@ -139,7 +139,7 @@ A Python project that detects faces in real time from a live video feed.
 
 | Qualification | Institution | Year |
 |---|---|---|
-| **[Data Analytics Career Program](certificates/arc-data-analytics-program.jpeg)** | Arc Technologies and Institutions, Nagpur | Jul 2025 – Mar 2026 |
+| **[Data Analytics Career Program](arc-data-analytics-program.jpeg)** | Arc Technologies and Institutions, Nagpur | Jul 2025 – Mar 2026 |
 | **B.Tech, Electrical Engineering** | Government College of Engineering, Ratnagiri | 2021 – 2025 |
 
 ---
@@ -153,10 +153,10 @@ A Python project that detects faces in real time from a live video feed.
 
 | Certificate | Issued By | Date / Score |
 |---|---|---|
-| [SQL (Basic) — Certificate of Accomplishment](certificates/hackerrank-sql-basic.pdf) | HackerRank | Sep 2026 · ID: AC9DF39C3CEB |
-| [30 Days Power BI Micro Course](certificates/power-bi-microcourse.png) | SkillCourse | Sep 2026 · ID: SC-6LXRMV2PWZ |
-| [Certified Data Analyst (AI Interview)](certificates/micro1-data-analyst.jpg) | micro1 | Mar 2026 |
-| [Data Analytics Entrance Test](certificates/infotact-qwik-data-analytics.pdf) | Infotact Solutions (QWIK Test) | Score: 100/100 |
+| [SQL (Basic) — Certificate of Accomplishment](hackerrank-sql-basic.pdf) | HackerRank | Sep 2026 · ID: AC9DF39C3CEB |
+| [30 Days Power BI Micro Course](power-bi-microcourse.png) | SkillCourse | Sep 2026 · ID: SC-6LXRMV2PWZ |
+| [Certified Data Analyst (AI Interview)](micro1-data-analyst.jpg) | micro1 | Mar 2026 |
+| [Data Analytics Entrance Test](infotact-qwik-data-analytics.pdf) | Infotact Solutions (QWIK Test) | Score: 100/100 |
 
 ---
 
@@ -164,8 +164,8 @@ A Python project that detects faces in real time from a live video feed.
 
 | Achievement | Issued By | Details |
 |---|---|---|
-| [Certificate of Completion — Robotics & Automation](certificates/mechatron-robotics.png) | Mechatron Robotics × Neurapses (STEM Accredited) | 3-month integrated course + 6-week internship · Nov 2023 |
-| [Certificate of Appreciation — Techex (Best Concept)](certificates/gcoer-techex.png) | Government College of Engineering, Ratnagiri | Participation, 3rd Year B.Tech |
+| [Certificate of Completion — Robotics & Automation](mechatron-robotics.png) | Mechatron Robotics × Neurapses (STEM Accredited) | 3-month integrated course + 6-week internship · Nov 2023 |
+| [Certificate of Appreciation — Techex (Best Concept)](gcoer-techex.png) | Government College of Engineering, Ratnagiri | Participation, 3rd Year B.Tech |
 
 ---
 
